@@ -1,0 +1,236 @@
+{
+  "propiedades": [
+    {
+      "id": "PROP-001",
+      "tipo": "Departamento",
+      "operacion": "Alquiler",
+      "titulo": "Depto 2 ambientes luminoso en Palermo Soho",
+      "direccion": {
+        "calle": "Gorriti 4532, Piso 3° B",
+        "barrio": "Palermo Soho",
+        "ciudad": "CABA",
+        "cp": "C1414"
+      },
+      "precio": {
+        "valor": 950,
+        "moneda": "USD",
+        "periodo": "mes"
+      },
+      "expensas": 85000,
+      "caracteristicas": {
+        "ambientes": 2,
+        "dormitorios": 1,
+        "banios": 1,
+        "superficie_total": 45,
+        "superficie_cubierta": 42
+      },
+      "detalles": {
+        "antiguedad": 8,
+        "estado": "Excelente",
+        "piso": 3,
+        "ascensor": true,
+        "balcon": true,
+        "balcon_m2": 3,
+        "cochera": false,
+        "baulera": false,
+        "mascotas": false,
+        "amoblado": "Semi-amoblado",
+        "calefaccion": "Central",
+        "agua_caliente": "Central"
+      },
+      "descripcion": "Hermoso departamento de 2 ambientes en el corazón de Palermo Soho. Living-comedor integrado con cocina equipada, dormitorio amplio con placard, baño completo con bañera. Muy luminoso con balcón al frente. Ubicación privilegiada a metros de Plaza Serrano, rodeado de bares, restaurantes y tiendas de diseño.",
+      "requisitos": [
+        "Garantía propietaria en CABA",
+        "Seguro de caución",
+        "Depósito 1 mes",
+        "Último recibo de sueldo"
+      ],
+      "disponibilidad": "2026-01-01",
+      "estado": "Disponible",
+      "carpeta_fotos": "fotos_demo/depto-palermo-001",
+      "tags": ["alquiler", "departamento", "2ambientes", "palermo", "balcon", "luminoso", "amoblado"],
+      "destacados": ["Luminoso", "Balcón", "Semi-amoblado", "Ubicación privilegiada"]
+    },
+    {
+      "id": "PROP-002",
+      "tipo": "Casa",
+      "operacion": "Venta",
+      "titulo": "Casa 4 ambientes con jardín y parrilla en Villa Urquiza",
+      "direccion": {
+        "calle": "Bauness 2145",
+        "barrio": "Villa Urquiza",
+        "ciudad": "CABA",
+        "cp": "C1431"
+      },
+      "precio": {
+        "valor": 295000,
+        "moneda": "USD",
+        "periodo": null
+      },
+      "expensas": null,
+      "caracteristicas": {
+        "ambientes": 4,
+        "dormitorios": 3,
+        "banios": 2,
+        "superficie_total": 180,
+        "superficie_cubierta": 120,
+        "superficie_jardin": 60
+      },
+      "detalles": {
+        "antiguedad": 35,
+        "estado": "Excelente (reciclada hace 5 años)",
+        "pisos": "PB + 1P",
+        "ascensor": false,
+        "balcon": false,
+        "cochera": true,
+        "cochera_capacidad": 2,
+        "baulera": false,
+        "mascotas": true,
+        "amoblado": "No",
+        "calefaccion": "Individual (gas)",
+        "agua_caliente": "Termotanque",
+        "jardin": true,
+        "jardin_m2": 60,
+        "parrilla": true,
+        "terraza": true
+      },
+      "descripcion": "Hermosa casa reciclada con muy buen gusto en Villa Urquiza. Planta baja: living-comedor amplio con salida a jardín, cocina moderna integrada, toilette, lavadero y cochera para 2 autos. Primer piso: 3 dormitorios (principal en suite con vestidor), baño completo y salida a terraza con parrilla. Jardín con parrilla ideal para reuniones.",
+      "requisitos": [
+        "Reserva: USD 10.000",
+        "Seña: 30% al firmar boleto",
+        "Saldo: Contra escritura",
+        "Acepta permuta por departamento menor valor + diferencia",
+        "Acepta crédito hipotecario"
+      ],
+      "disponibilidad": "2026-02-15",
+      "estado": "Disponible",
+      "carpeta_fotos": "fotos_demo/casa-villa-urquiza-002",
+      "tags": ["venta", "casa", "4ambientes", "villa_urquiza", "jardin", "parrilla", "cochera", "terraza", "reciclada"],
+      "destacados": ["Jardín con parrilla", "Cochera 2 autos", "Terraza", "Reciclada", "Acepta mascotas"]
+    },
+    {
+      "id": "PROP-003",
+      "tipo": "Local",
+      "operacion": "Alquiler",
+      "titulo": "Local comercial sobre avenida en Microcentro",
+      "direccion": {
+        "calle": "Av. Corrientes 1523, Planta Baja",
+        "barrio": "San Nicolás (Microcentro)",
+        "ciudad": "CABA",
+        "cp": "C1042"
+      },
+      "precio": {
+        "valor": 2200,
+        "moneda": "USD",
+        "periodo": "mes"
+      },
+      "expensas": 180000,
+      "caracteristicas": {
+        "ambientes": 1,
+        "banios": 1,
+        "superficie_total": 85,
+        "superficie_cubierta": 85,
+        "frente": 6
+      },
+      "detalles": {
+        "antiguedad": 60,
+        "estado": "Muy bueno",
+        "piso": "Planta baja",
+        "vidriera": true,
+        "vidriera_metros": 6,
+        "aire_acondicionado": "Split frío/calor",
+        "deposito": true,
+        "deposito_m2": 15,
+        "altura": 3.5,
+        "instalacion_electrica": "Trifásica",
+        "persianas": "Metálicas",
+        "alarma": true,
+        "salida_humos": true
+      },
+      "rubros_sugeridos": [
+        "Oficina administrativa",
+        "Tienda de ropa/accesorios",
+        "Showroom",
+        "Cafetería / Gastronómico",
+        "Centro de estética",
+        "Gimnasio boutique",
+        "Agencia de servicios"
+      ],
+      "descripcion": "Excelente local comercial sobre Av. Corrientes, en pleno Microcentro porteño. Espacio amplio y versátil ideal para diversos rubros. Gran vidriera de 6 metros que garantiza visibilidad. Zona de altísimo tránsito peatonal y vehicular, rodeado de bancos, comercios y transporte público. A metros de estación Uruguay (línea B).",
+      "requisitos": [
+        "Garantía propietaria en CABA",
+        "Seguro de caución",
+        "Depósito: 2 meses de alquiler",
+        "Último balance (empresas) o recibo de sueldo",
+        "Contrato mínimo: 3 años"
+      ],
+      "disponibilidad": "2026-02-01",
+      "estado": "Disponible",
+      "carpeta_fotos": "fotos_demo/local-microcentro-003",
+      "tags": ["alquiler", "local_comercial", "microcentro", "vidriera", "deposito", "trifasica", "alto_transito"],
+      "destacados": ["Vidriera amplia", "Alto tránsito", "Versátil", "Depósito", "Instalación trifásica"]
+    },
+    {
+      "id": "PROP-004",
+      "tipo": "Departamento",
+      "operacion": "Venta",
+      "titulo": "Depto 3 ambientes con cochera en Belgrano R",
+      "direccion": {
+        "calle": "Av. Cabildo 3245, Piso 5° A",
+        "barrio": "Belgrano R",
+        "ciudad": "CABA",
+        "cp": "C1426"
+      },
+      "precio": {
+        "valor": 185000,
+        "moneda": "USD",
+        "periodo": null
+      },
+      "expensas": 120000,
+      "caracteristicas": {
+        "ambientes": 3,
+        "dormitorios": 2,
+        "banios": 2,
+        "superficie_total": 72,
+        "superficie_cubierta": 68
+      },
+      "detalles": {
+        "antiguedad": 12,
+        "estado": "Muy bueno",
+        "piso": 5,
+        "ascensor": true,
+        "balcon": true,
+        "balcon_m2": 8,
+        "cochera": true,
+        "cochera_tipo": "cubierta",
+        "baulera": true,
+        "mascotas": true,
+        "amoblado": "No",
+        "calefaccion": "Central",
+        "agua_caliente": "Central"
+      },
+      "amenities": [
+        "Portero 24hs",
+        "2 Ascensores",
+        "Terraza común",
+        "Parrilla",
+        "SUM",
+        "Laundry",
+        "Seguridad",
+        "Cámaras"
+      ],
+      "descripcion": "Excelente departamento de 3 ambientes en Belgrano R, sobre Av. Cabildo. Living-comedor amplio con salida a balcón, cocina separada con office, dos dormitorios (principal con placard empotrado), baño completo y toilette. Incluye cochera cubierta y baulera. Edificio con amenities y seguridad 24hs.",
+      "requisitos": [
+        "Reserva: USD 5.000",
+        "Seña: 30% al firmar boleto",
+        "Saldo: Contra escritura",
+        "Acepta crédito hipotecario"
+      ],
+      "disponibilidad": "Inmediata",
+      "estado": "Disponible",
+      "carpeta_fotos": "fotos_demo/depto-belgrano-004",
+      "tags": ["venta", "departamento", "3ambientes", "belgrano", "cochera", "balcon", "amenities", "apto_credito"],
+      "destacados": ["Cochera", "Baulera", "Amenities completos", "Acepta mascotas", "Terraza común"]
+    }
+  ]
+}
