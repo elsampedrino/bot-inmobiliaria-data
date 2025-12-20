@@ -4,26 +4,1641 @@
       "id": "BBR-CASA-001",
       "tipo": "Casa",
       "operacion": "Venta",
-      "titulo": "Casa de prueba BBR en Ramallo",
+      "estado_construccion": "Usado",
+      "titulo": "Casa Venta - Ramallo",
       "direccion": {
-        "calle": "Calle Test 123",
-        "localidad": "Ramallo",
-        "provincia": "Buenos Aires",
-        "pais": "Argentina"
+        "calle": "Colón al 1100",
+        "barrio": "Ramallo",
+        "ciudad": "Ramallo",
+        "cp": ""
       },
       "precio": {
-        "valor": 100000,
-        "moneda": "USD"
+        "valor": 139000.0,
+        "moneda": "USD",
+        "periodo": null
       },
+      "expensas": null,
       "caracteristicas": {
-        "superficie_total": 120
+        "ambientes": null,
+        "dormitorios": null,
+        "banios": null,
+        "superficie_total": 140.0,
+        "superficie_cubierta": 140.0
       },
-      "descripcion": "Propiedad de prueba para testing del parámetro repo",
-      "disponibilidad": "Disponible",
+      "detalles": {
+        "estado_construccion": "Usado",
+        "ascensor": false,
+        "balcon": false,
+        "cochera": false,
+        "baulera": false,
+        "pileta": false,
+        "mascotas": false
+      },
+      "descripcion": "Propiedad de aprox. 140 m2, en lote de 11 m. x 42 m. sobre calle Colón al 1100 entre calles Eva Perón y Av. Savio. Excelente ubicación en zona céntrica, en cercanias de dos colegios primarios, dos colegios secundarios, la plaza principal José María Bustos y el centro comercial de Ramallo. Cuenta con cómodos espacios, living, cocina comedor, dos dormitorios y baño completo. Posee patio parquizado con pileta. Quincho cubierto con Parrilla. Cuenta con todos los servicios.",
+      "disponibilidad": "Inmediata",
       "fotos": {
-        "cantidad": 0,
-        "paths": []
+        "carpeta": "1",
+        "urls": [
+          "https://res.cloudinary.com/dikb9wzup/image/upload/v1766252769/bbr/bbr-casa-001/foto01.jpg",
+          "https://res.cloudinary.com/dikb9wzup/image/upload/v1766252770/bbr/bbr-casa-001/foto02.jpg",
+          "https://res.cloudinary.com/dikb9wzup/image/upload/v1766252771/bbr/bbr-casa-001/foto03.jpg"
+        ]
+      }
+    },
+    {
+      "id": "BBR-CASA-002",
+      "tipo": "Casa",
+      "operacion": "Venta",
+      "estado_construccion": "Usado",
+      "titulo": "Casa Venta - Ramallo",
+      "direccion": {
+        "calle": "La Rioja al 600",
+        "barrio": "Ramallo",
+        "ciudad": "Ramallo",
+        "cp": ""
+      },
+      "precio": {
+        "valor": 250000.0,
+        "moneda": "USD",
+        "periodo": null
+      },
+      "expensas": null,
+      "caracteristicas": {
+        "ambientes": null,
+        "dormitorios": null,
+        "banios": null,
+        "superficie_total": 170.0,
+        "superficie_cubierta": 170.0
+      },
+      "detalles": {
+        "estado_construccion": "Usado",
+        "ascensor": false,
+        "balcon": false,
+        "cochera": false,
+        "baulera": false,
+        "pileta": false,
+        "mascotas": false
+      },
+      "descripcion": "Propiedad de 170 m2, en terreno de 10,00 x 23,50 m. ubicada en calle La Rioja al 600 entre calles Colón y Av. San Martín de Ramallo. Excelente ubicación, la misma se encuentra a pocas cuadras de un colegio primario, dos colegios secundarios y un jardín de infantes. La zona es muy comercial con locales de distintos rubros. Esta propiedad es totalmente nueva y dispone de cómodos espacios, cocina comedor, tres dormitorios, dos baño, parrilla, pileta y cochera. Posee todos los servicios.",
+      "disponibilidad": "Inmediata",
+      "fotos": {
+        "carpeta": "2",
+        "urls": [
+          "https://res.cloudinary.com/dikb9wzup/image/upload/v1766252774/bbr/bbr-casa-002/foto01.jpg",
+          "https://res.cloudinary.com/dikb9wzup/image/upload/v1766252779/bbr/bbr-casa-002/foto02.jpg",
+          "https://res.cloudinary.com/dikb9wzup/image/upload/v1766252784/bbr/bbr-casa-002/foto03.jpg"
+        ]
+      }
+    },
+    {
+      "id": "BBR-CASA-003",
+      "tipo": "Casa",
+      "operacion": "Venta",
+      "estado_construccion": "Usado",
+      "titulo": "Casa Venta - Ramallo",
+      "direccion": {
+        "calle": "Cucurrullo al 300",
+        "barrio": "Ramallo",
+        "ciudad": "Ramallo",
+        "cp": ""
+      },
+      "precio": {
+        "valor": 40000.0,
+        "moneda": "USD",
+        "periodo": null
+      },
+      "expensas": null,
+      "caracteristicas": {
+        "ambientes": null,
+        "dormitorios": null,
+        "banios": null,
+        "superficie_total": 125.0,
+        "superficie_cubierta": 125.0
+      },
+      "detalles": {
+        "estado_construccion": "Usado",
+        "ascensor": false,
+        "balcon": false,
+        "cochera": false,
+        "baulera": false,
+        "pileta": false,
+        "mascotas": false
+      },
+      "descripcion": "Cuenta con living, comedor, cocina con bajo mesada y alacena. Tres dormitorios de buen tamaño. Baño completo. Posee innovador termotanque solar con capacidad de 25 litros. Cochera semi cubierta, lavadero y gran patio parquizado. Excelente terreno de 12 x 50 mts. con los servicios de agua corriente, cloacas y electricidad. ",
+      "disponibilidad": "Inmediata",
+      "fotos": {
+        "carpeta": "3",
+        "urls": [
+          "https://res.cloudinary.com/dikb9wzup/image/upload/v1766252795/bbr/bbr-casa-003/foto01.jpg",
+          "https://res.cloudinary.com/dikb9wzup/image/upload/v1766252804/bbr/bbr-casa-003/foto02.jpg",
+          "https://res.cloudinary.com/dikb9wzup/image/upload/v1766252814/bbr/bbr-casa-003/foto03.jpg"
+        ]
+      }
+    },
+    {
+      "id": "BBR-CASA-004",
+      "tipo": "Casa",
+      "operacion": "Venta",
+      "estado_construccion": "Usado",
+      "titulo": "Casa Venta - Ramallo",
+      "direccion": {
+        "calle": "Rafael Obligado al 400",
+        "barrio": "Ramallo",
+        "ciudad": "Ramallo",
+        "cp": ""
+      },
+      "precio": {
+        "valor": 70000.0,
+        "moneda": "USD",
+        "periodo": null
+      },
+      "expensas": null,
+      "caracteristicas": {
+        "ambientes": null,
+        "dormitorios": null,
+        "banios": null,
+        "superficie_total": 90.0,
+        "superficie_cubierta": 90.0
+      },
+      "detalles": {
+        "estado_construccion": "Usado",
+        "ascensor": false,
+        "balcon": false,
+        "cochera": false,
+        "baulera": false,
+        "pileta": false,
+        "mascotas": false
+      },
+      "descripcion": "Propiedad de 90 m2., en lote de 11,50 X 22,00 mts. Ubicada en calle Rafael Obligado al 400, en esquina con calle Santa Fe, en cercanías una escuela primaria y una escuela secundaria, de la plaza principal José María Bustos, del paseo del puerto, del Club Náutico y Pescadores de Ramallo (CNPR) y del acceso a la zona del paseo del río y balnearios. La misma cuenta con cómodos espacios, living, comedor y cocina. Posee una galería abierta, dos dormitorios. Baño completo. Patio, parrilla, lavadero y cochera. Cuenta con todos los servicios.",
+      "disponibilidad": "Inmediata",
+      "fotos": {
+        "carpeta": "4",
+        "urls": [
+          "https://res.cloudinary.com/dikb9wzup/image/upload/v1766252826/bbr/bbr-casa-004/foto01.jpg",
+          "https://res.cloudinary.com/dikb9wzup/image/upload/v1766252835/bbr/bbr-casa-004/foto02.jpg",
+          "https://res.cloudinary.com/dikb9wzup/image/upload/v1766252841/bbr/bbr-casa-004/foto03.jpg"
+        ]
+      }
+    },
+    {
+      "id": "BBR-CASA-005",
+      "tipo": "Casa",
+      "operacion": "Venta",
+      "estado_construccion": "Usado",
+      "titulo": "Casa Venta - Ramallo",
+      "direccion": {
+        "calle": "Cesar Niz al 100",
+        "barrio": "Ramallo",
+        "ciudad": "Ramallo",
+        "cp": ""
+      },
+      "precio": {
+        "valor": 80000.0,
+        "moneda": "USD",
+        "periodo": null
+      },
+      "expensas": null,
+      "caracteristicas": {
+        "ambientes": null,
+        "dormitorios": null,
+        "banios": null,
+        "superficie_total": 120.0,
+        "superficie_cubierta": 120.0
+      },
+      "detalles": {
+        "estado_construccion": "Usado",
+        "ascensor": false,
+        "balcon": false,
+        "cochera": false,
+        "baulera": false,
+        "pileta": false,
+        "mascotas": false
+      },
+      "descripcion": "Propiedad de 120 m2, ubicada sobre calle Cesar Niz al 100 entre Av. Belgrano y Eva Perón. Hacia el norte, a pocas cuadras, nos encontramos con la plaza principal José María Bustos y el centro comercial de Ramallo y, hacia el este, la zona de la costa con el paseo del río, campings y balnearios. Hacia el sur acceso rapido a ruta provincial n°51, arteria de salida de la ciudad. Construcción en excelente estado de conservación. La misma cuenta con cómodos espacios, living, comedor y cocina. Posee una gran galería y dos dormitorios de buen tamaño. Baño completo. Parrilla cubierta y cochera. Cuenta con todos los servicios.",
+      "disponibilidad": "Inmediata",
+      "fotos": {
+        "carpeta": "5",
+        "urls": [
+          "https://res.cloudinary.com/dikb9wzup/image/upload/v1766252861/bbr/bbr-casa-005/foto01.jpg",
+          "https://res.cloudinary.com/dikb9wzup/image/upload/v1766252863/bbr/bbr-casa-005/foto02.jpg",
+          "https://res.cloudinary.com/dikb9wzup/image/upload/v1766252865/bbr/bbr-casa-005/foto03.jpg"
+        ]
+      }
+    },
+    {
+      "id": "BBR-CASA-006",
+      "tipo": "Casa",
+      "operacion": "Venta",
+      "estado_construccion": "Usado",
+      "titulo": "Casa Venta - Villa Ramallo",
+      "direccion": {
+        "calle": "Malvinas Argentinas al 800",
+        "barrio": "Villa Ramallo",
+        "ciudad": "Villa Ramallo",
+        "cp": ""
+      },
+      "precio": {
+        "valor": 35000.0,
+        "moneda": "USD",
+        "periodo": null
+      },
+      "expensas": null,
+      "caracteristicas": {
+        "ambientes": null,
+        "dormitorios": null,
+        "banios": null,
+        "superficie_total": 64.0,
+        "superficie_cubierta": 64.0
+      },
+      "detalles": {
+        "estado_construccion": "Usado",
+        "ascensor": false,
+        "balcon": false,
+        "cochera": false,
+        "baulera": false,
+        "pileta": false,
+        "mascotas": false
+      },
+      "descripcion": "Propiedad de aprox. 64 m2, en lote de 10,00 m. x 29,00 m. sobre calle Malvinas Argentinas al 800, entre calles Rivadavia e Irigoyen de la localidad de Villa Ramallo. Excelente ubicación en barrio de gran tranquilidad de la ciudad, en cercanias de un jardín de infantes, un colegio primario y dos colegios secundarios. Además podemos encontar en la zona varios comercios de distintos rubros. La vivienda cuenta con cómodos espacios, living, cocina comedor, dos dormitorios y baño. Posee gran patio y cochera. Cuenta con todos los servicios.",
+      "disponibilidad": "Inmediata",
+      "fotos": {
+        "carpeta": "6",
+        "urls": [
+          "https://res.cloudinary.com/dikb9wzup/image/upload/v1766252878/bbr/bbr-casa-006/foto01.jpg",
+          "https://res.cloudinary.com/dikb9wzup/image/upload/v1766252888/bbr/bbr-casa-006/foto02.jpg",
+          "https://res.cloudinary.com/dikb9wzup/image/upload/v1766252894/bbr/bbr-casa-006/foto03.jpg"
+        ]
+      }
+    },
+    {
+      "id": "BBR-CASA-007",
+      "tipo": "Casa",
+      "operacion": "Venta",
+      "estado_construccion": "Usado",
+      "titulo": "Casa Venta - Ramallo",
+      "direccion": {
+        "calle": "Colón al 1100",
+        "barrio": "Ramallo",
+        "ciudad": "Ramallo",
+        "cp": ""
+      },
+      "precio": {
+        "valor": 140000.0,
+        "moneda": "USD",
+        "periodo": null
+      },
+      "expensas": null,
+      "caracteristicas": {
+        "ambientes": null,
+        "dormitorios": null,
+        "banios": null,
+        "superficie_total": 100.0,
+        "superficie_cubierta": 100.0
+      },
+      "detalles": {
+        "estado_construccion": "Usado",
+        "ascensor": false,
+        "balcon": false,
+        "cochera": false,
+        "baulera": false,
+        "pileta": false,
+        "mascotas": false
+      },
+      "descripcion": "Propiedad de aprox. 70 m2, en lote de 10,00 m. x 41,83 m. sobre calle Colón al 1100 entre calle Eva Perón y Av. Savio. Excelente ubicación en zona céntrica, en cercanias de dos colegios primarios, dos colegios secundarios, la plaza principal José María Bustos y el centro comercial de Ramallo. La vivienda se encuentra apta para vivir. Cuenta con cómodos espacios, living, cocina comedor, dos dormitorios y baño completo. Galeria cubierta. Posee gran patio parquizado. Parrilla, deposito/galpón y cochera. Cuenta con todos los servicios.",
+      "disponibilidad": "Inmediata",
+      "fotos": {
+        "carpeta": "7",
+        "urls": [
+          "https://res.cloudinary.com/dikb9wzup/image/upload/v1766252895/bbr/bbr-casa-007/foto01.jpg",
+          "https://res.cloudinary.com/dikb9wzup/image/upload/v1766252897/bbr/bbr-casa-007/foto02.jpg",
+          "https://res.cloudinary.com/dikb9wzup/image/upload/v1766252900/bbr/bbr-casa-007/foto03.jpg"
+        ]
+      }
+    },
+    {
+      "id": "BBR-CASA-008",
+      "tipo": "Casa",
+      "operacion": "Venta",
+      "estado_construccion": "Usado",
+      "titulo": "Casa Venta - Ramallo",
+      "direccion": {
+        "calle": "Roque S. Peña al 700",
+        "barrio": "Ramallo",
+        "ciudad": "Ramallo",
+        "cp": ""
+      },
+      "precio": {
+        "valor": 80000.0,
+        "moneda": "USD",
+        "periodo": null
+      },
+      "expensas": null,
+      "caracteristicas": {
+        "ambientes": null,
+        "dormitorios": null,
+        "banios": null,
+        "superficie_total": 200.0,
+        "superficie_cubierta": 200.0
+      },
+      "detalles": {
+        "estado_construccion": "Usado",
+        "ascensor": false,
+        "balcon": false,
+        "cochera": false,
+        "baulera": false,
+        "pileta": false,
+        "mascotas": false
+      },
+      "descripcion": "Propiedad de 200 m2, semi construida, ubicada sobre calle Roque S. Peña al 700 entre Av. Moreno y calle Sarmiento. Todo al día y lista para escriturar. Cuenta con planos listos y aprobados. Excelente oportunidad para continuar construcción y modelar/finalizar la propiedad a estilo y gusto propio. La distribución de los espacios es sumamente cómodos. Cuenta con living, comedor y cocina, dos dormitorios, una sala de usos múltiples que podría ser una tercera habitación por su tamaño. Un baño con antebaño y un baño/lavadero. Parrilla y cochera. Posee con patio parquizado con espacio para una piscina. Cuenta con todos los servicios. Su ubicación la encuentra cerca de, hacia el norte, a pocas cuadras, con la plaza principal José María Bustos y el centro comercial de Ramallo, hacia el este, la zona de la costa con el paseo del río, campings y balnearios y hacia el sur acceso rápido a ruta provincial n°51, ruta de salida de la ciudad que conecta con ruta nacional n°9.",
+      "disponibilidad": "Inmediata",
+      "fotos": {
+        "carpeta": "8",
+        "urls": [
+          "https://res.cloudinary.com/dikb9wzup/image/upload/v1766252910/bbr/bbr-casa-008/foto01.jpg",
+          "https://res.cloudinary.com/dikb9wzup/image/upload/v1766252918/bbr/bbr-casa-008/foto02.jpg",
+          "https://res.cloudinary.com/dikb9wzup/image/upload/v1766252926/bbr/bbr-casa-008/foto03.jpg"
+        ]
+      }
+    },
+    {
+      "id": "BBR-CASA-009",
+      "tipo": "Casa",
+      "operacion": "Venta",
+      "estado_construccion": "Usado",
+      "titulo": "Casa Venta - Ramallo",
+      "direccion": {
+        "calle": "Colón al 1000",
+        "barrio": "Ramallo",
+        "ciudad": "Ramallo",
+        "cp": ""
+      },
+      "precio": {
+        "valor": 135000.0,
+        "moneda": "USD",
+        "periodo": null
+      },
+      "expensas": null,
+      "caracteristicas": {
+        "ambientes": null,
+        "dormitorios": null,
+        "banios": null,
+        "superficie_total": 80.0,
+        "superficie_cubierta": 80.0
+      },
+      "detalles": {
+        "estado_construccion": "Usado",
+        "ascensor": false,
+        "balcon": false,
+        "cochera": false,
+        "baulera": false,
+        "pileta": false,
+        "mascotas": false
+      },
+      "descripcion": "Propiedad de aprox. 80 m2, en lote de 21,65 m. x 43,30 m. La vivienda se encuentra apta para vivir. Excelente ubicación en zona céntrica, en cercanias de dos colegios primarios, dos colegios secundarios, la plaza principal José María Bustos y el centro comercial de Ramallo.Cuenta con cómodos espacios, hall de entrada/living, cocina comedor, dos dormitorios y baño completo. Posee gran patio parquizado. Cuenta con todos los servicios, agua, cloacas, gas, electricidad y pavimento.",
+      "disponibilidad": "Inmediata",
+      "fotos": {
+        "carpeta": "9",
+        "urls": [
+          "https://res.cloudinary.com/dikb9wzup/image/upload/v1766252927/bbr/bbr-casa-009/foto01.jpg",
+          "https://res.cloudinary.com/dikb9wzup/image/upload/v1766252929/bbr/bbr-casa-009/foto02.jpg",
+          "https://res.cloudinary.com/dikb9wzup/image/upload/v1766252931/bbr/bbr-casa-009/foto03.jpg"
+        ]
+      }
+    },
+    {
+      "id": "BBR-CASA-010",
+      "tipo": "Casa",
+      "operacion": "Venta",
+      "estado_construccion": "Usado",
+      "titulo": "Casa Venta - Ramallo",
+      "direccion": {
+        "calle": "San Francisco Javier al 000",
+        "barrio": "Ramallo",
+        "ciudad": "Ramallo",
+        "cp": ""
+      },
+      "precio": {
+        "valor": 80000.0,
+        "moneda": "USD",
+        "periodo": null
+      },
+      "expensas": null,
+      "caracteristicas": {
+        "ambientes": null,
+        "dormitorios": null,
+        "banios": null,
+        "superficie_total": 120.0,
+        "superficie_cubierta": 120.0
+      },
+      "detalles": {
+        "estado_construccion": "Usado",
+        "ascensor": false,
+        "balcon": false,
+        "cochera": false,
+        "baulera": false,
+        "pileta": false,
+        "mascotas": false
+      },
+      "descripcion": "Propiedad de 120 m2., en lote de 10 X 25 mts. Ubicada en la exclusiva zona de la costa, sobre calle San Francisco Javier al 000, entre calles De los Inmigrantes y San Lorenzo. A metros del Club Náutico y Pescadores de Ramallo (CNPR) y paseo del puerto. Por calle San Lorenzo se llega al acceso del paseo del río y zona de balnearios y camping. La misma cuenta con cómodos espacios, living, cocina, comedor, tres dormitorios y baño completo. Posee patio parquizado, galería techada con parrilla y cochera. Cuenta con todos los servicios, agua, cloacas, gas, electricidad y pavimento.",
+      "disponibilidad": "Inmediata",
+      "fotos": {
+        "carpeta": "10",
+        "urls": [
+          "https://res.cloudinary.com/dikb9wzup/image/upload/v1766252944/bbr/bbr-casa-010/foto01.jpg",
+          "https://res.cloudinary.com/dikb9wzup/image/upload/v1766252953/bbr/bbr-casa-010/foto02.jpg",
+          "https://res.cloudinary.com/dikb9wzup/image/upload/v1766252959/bbr/bbr-casa-010/foto03.jpg"
+        ]
+      }
+    },
+    {
+      "id": "BBR-CASA-011",
+      "tipo": "Casa",
+      "operacion": "Venta",
+      "estado_construccion": "Usado",
+      "titulo": "Casa Venta - Ramallo",
+      "direccion": {
+        "calle": "San Francisco Javier 2400",
+        "barrio": "Ramallo",
+        "ciudad": "Ramallo",
+        "cp": ""
+      },
+      "precio": {
+        "valor": 40000.0,
+        "moneda": "USD",
+        "periodo": null
+      },
+      "expensas": null,
+      "caracteristicas": {
+        "ambientes": null,
+        "dormitorios": null,
+        "banios": null,
+        "superficie_total": 70.0,
+        "superficie_cubierta": 70.0
+      },
+      "detalles": {
+        "estado_construccion": "Usado",
+        "ascensor": false,
+        "balcon": false,
+        "cochera": false,
+        "baulera": false,
+        "pileta": false,
+        "mascotas": false
+      },
+      "descripcion": "Propiedad de 70 m2. (a construir/finalizar), en lote de 13 X 33 mts. Excelente oportunidad para continuar construcción y modelar/finalizar la propiedad a estilo y gusto propio. Ubicada sobre calle San Francisco Javier al 2400. Notable lugar de gran tranquilidad. Se encuentra a 100 metros de Av. San Martín (Ruta provincial 51, ingreso a la ciudad) y a 100 metros de Av. Mitre, dos vías que permiten el acceso rápido a la zona urbana y centro del pueblo, como también, llegada rápida a la traza de calle Guerrico/Oliva, el nuevo y mejorado acceso a la zona del paseo del río y balnearios de la costa. La misma presenta una distribución de cómodos espacios, cocina comedor, dos dormitorios y baño. Posee gran espacio trasero/patio y frente que permite seguir ampliando o construyendo. Cuenta con los servicios de agua corriente, cloacas, electricidad.",
+      "disponibilidad": "Inmediata",
+      "fotos": {
+        "carpeta": "11",
+        "urls": [
+          "https://res.cloudinary.com/dikb9wzup/image/upload/v1766252970/bbr/bbr-casa-011/foto01.jpg",
+          "https://res.cloudinary.com/dikb9wzup/image/upload/v1766252981/bbr/bbr-casa-011/foto02.jpg",
+          "https://res.cloudinary.com/dikb9wzup/image/upload/v1766252991/bbr/bbr-casa-011/foto03.jpg"
+        ]
+      }
+    },
+    {
+      "id": "BBR-CASA-012",
+      "tipo": "Casa",
+      "operacion": "Venta",
+      "estado_construccion": "Usado",
+      "titulo": "Casa Venta - Ramallo",
+      "direccion": {
+        "calle": "Av. Mitre al 1300",
+        "barrio": "Ramallo",
+        "ciudad": "Ramallo",
+        "cp": ""
+      },
+      "precio": {
+        "valor": 130000.0,
+        "moneda": "USD",
+        "periodo": null
+      },
+      "expensas": null,
+      "caracteristicas": {
+        "ambientes": null,
+        "dormitorios": null,
+        "banios": null,
+        "superficie_total": 220.0,
+        "superficie_cubierta": 220.0
+      },
+      "detalles": {
+        "estado_construccion": "Usado",
+        "ascensor": false,
+        "balcon": false,
+        "cochera": false,
+        "baulera": false,
+        "pileta": false,
+        "mascotas": false
+      },
+      "descripcion": "Propiedad de 220 m2, en terreno de 12,00 x 47,70 mts, sobre Av. Mitre al 1300, una de las principales avenidas de la ciudad, entre calle Catamarca y Av. Irigoyen. Inmejorable ubicación en la zona céntrica de Ramallo, a metros del banco prov. de Bs. As., a plaza principal José María Bustos y varios e importantes locales comerciales. En cercanías de una escuela secundaria y el hospital local, José María Gomendio. La misma cuenta con cómodos espacios, cocina comedor, baño completo y dos dormitorios (uno de ellos con altillo). Posee gran galería cubierta con comedor de concepto. Garaje con gran capacidad (hasta 3 vehículos), deposito/galpón, quincho con parrilla, lavadero y baño incluido. Además, hermoso patio parquizado con pileta. Cuenta con todos los servicios.",
+      "disponibilidad": "Inmediata",
+      "fotos": {
+        "carpeta": "12",
+        "urls": [
+          "https://res.cloudinary.com/dikb9wzup/image/upload/v1766252996/bbr/bbr-casa-012/foto01.jpg",
+          "https://res.cloudinary.com/dikb9wzup/image/upload/v1766253006/bbr/bbr-casa-012/foto02.jpg",
+          "https://res.cloudinary.com/dikb9wzup/image/upload/v1766253011/bbr/bbr-casa-012/foto03.jpg"
+        ]
+      }
+    },
+    {
+      "id": "BBR-CASA-014",
+      "tipo": "Casa",
+      "operacion": "Venta",
+      "estado_construccion": "Usado",
+      "titulo": "Casa Venta - Ramallo",
+      "direccion": {
+        "calle": "Dr. Cucurullo al 400",
+        "barrio": "Ramallo",
+        "ciudad": "Ramallo",
+        "cp": ""
+      },
+      "precio": {
+        "valor": 55000.0,
+        "moneda": "USD",
+        "periodo": null
+      },
+      "expensas": null,
+      "caracteristicas": {
+        "ambientes": null,
+        "dormitorios": null,
+        "banios": null,
+        "superficie_total": 132.0,
+        "superficie_cubierta": 132.0
+      },
+      "detalles": {
+        "estado_construccion": "Usado",
+        "ascensor": false,
+        "balcon": false,
+        "cochera": false,
+        "baulera": false,
+        "pileta": false,
+        "mascotas": false
+      },
+      "descripcion": "Amplia y cómoda propiedad de 132 m2, en lote de 12 X 41 mts., ubicada sobre calle Dr. Cucurullo al 400, entre calles Juan B. Justo y R. Obligado. Zona de gran tranquilidad. Su excelente ubicación la encuentra en cercanías de un colegio primario y un jardín de infantes y 200 mts. de Av. San Martín, la principal arteria de la localidad. La misma dispone de cómodos espacios living comedor, cocina. Posee de tres dormitorios de buen tamaño. Baño completo. Cochera semi cubierta, gran patio parquizado con pileta. Las dimensiones de la propiedad la hacen apta para seguir construyendo. Cuenta con los servicios de agua corriente, gas, cloacas y electricidad.",
+      "disponibilidad": "Inmediata",
+      "fotos": {
+        "carpeta": "14",
+        "urls": [
+          "https://res.cloudinary.com/dikb9wzup/image/upload/v1766253021/bbr/bbr-casa-014/foto01.jpg",
+          "https://res.cloudinary.com/dikb9wzup/image/upload/v1766253029/bbr/bbr-casa-014/foto02.jpg",
+          "https://res.cloudinary.com/dikb9wzup/image/upload/v1766253036/bbr/bbr-casa-014/foto03.jpg"
+        ]
+      }
+    },
+    {
+      "id": "BBR-CASA-015",
+      "tipo": "Casa",
+      "operacion": "Venta",
+      "estado_construccion": "Usado",
+      "titulo": "Casa Venta - Ramallo",
+      "direccion": {
+        "calle": "Av. Moreno al 00",
+        "barrio": "Ramallo",
+        "ciudad": "Ramallo",
+        "cp": ""
+      },
+      "precio": {
+        "valor": 45000.0,
+        "moneda": "USD",
+        "periodo": null
+      },
+      "expensas": null,
+      "caracteristicas": {
+        "ambientes": null,
+        "dormitorios": null,
+        "banios": null,
+        "superficie_total": 65.0,
+        "superficie_cubierta": 65.0
+      },
+      "detalles": {
+        "estado_construccion": "Usado",
+        "ascensor": false,
+        "balcon": false,
+        "cochera": false,
+        "baulera": false,
+        "pileta": false,
+        "mascotas": false
+      },
+      "descripcion": "Excelente de propiedad de 65 m2, en terreno de 10 x 43 m. sobre Avenida Moreno al 00, entre calles Velázquez y San Juan. Zona de gran tranquilidad. Ubicada a cinco cuadras de dos colegios primarios, dos colegios secundarios y la plaza principal José María Bustos. La misma cuenta con living, cocina comedor, dos dormitorios y baño completo. Posee además una galería abierta techada y un hermoso patio parquizado de grandes dimensiones, excelente para seguir agrandando la propiedad o inversión en proyectos de construcción. Cuenta con todos los servicios, agua corriente, cloacas y electricidad.",
+      "disponibilidad": "Inmediata",
+      "fotos": {
+        "carpeta": "15",
+        "urls": [
+          "https://res.cloudinary.com/dikb9wzup/image/upload/v1766253049/bbr/bbr-casa-015/foto01.jpg",
+          "https://res.cloudinary.com/dikb9wzup/image/upload/v1766253057/bbr/bbr-casa-015/foto02.jpg",
+          "https://res.cloudinary.com/dikb9wzup/image/upload/v1766253068/bbr/bbr-casa-015/foto03.jpg"
+        ]
+      }
+    },
+    {
+      "id": "BBR-CASA-016",
+      "tipo": "Casa",
+      "operacion": "Venta",
+      "estado_construccion": "Usado",
+      "titulo": "Casa Venta - Villa Ramallo",
+      "direccion": {
+        "calle": "Traverso al 200",
+        "barrio": "Villa Ramallo",
+        "ciudad": "Villa Ramallo",
+        "cp": ""
+      },
+      "precio": {
+        "valor": 70000.0,
+        "moneda": "USD",
+        "periodo": null
+      },
+      "expensas": null,
+      "caracteristicas": {
+        "ambientes": null,
+        "dormitorios": null,
+        "banios": null,
+        "superficie_total": 116.0,
+        "superficie_cubierta": 116.0
+      },
+      "detalles": {
+        "estado_construccion": "Usado",
+        "ascensor": false,
+        "balcon": false,
+        "cochera": false,
+        "baulera": false,
+        "pileta": false,
+        "mascotas": false
+      },
+      "descripcion": "Propiedad de 116 m2 en terreno de 13 x 27 mts., sobre calle Traverso al 200 esq. Ing. Iribas. Excelente ubicación en zona residencial de Villa Ramallo. Cuenta con cómodos espacios, cocina, comedor, dos dormitorios, baño, garaje, parrilla, depósito/galpón y gran patio. Cuenta con todos los servicios.",
+      "disponibilidad": "Inmediata",
+      "fotos": {
+        "carpeta": "16",
+        "urls": [
+          "https://res.cloudinary.com/dikb9wzup/image/upload/v1766253079/bbr/bbr-casa-016/foto01.jpg",
+          "https://res.cloudinary.com/dikb9wzup/image/upload/v1766253086/bbr/bbr-casa-016/foto02.jpg",
+          "https://res.cloudinary.com/dikb9wzup/image/upload/v1766253094/bbr/bbr-casa-016/foto03.jpg"
+        ]
+      }
+    },
+    {
+      "id": "BBR-CASA-017",
+      "tipo": "Casa",
+      "operacion": "Venta",
+      "estado_construccion": "Usado",
+      "titulo": "Casa Venta - Ramallo",
+      "direccion": {
+        "calle": "San Francisco Javier al 100",
+        "barrio": "Ramallo",
+        "ciudad": "Ramallo",
+        "cp": ""
+      },
+      "precio": {
+        "valor": 78000.0,
+        "moneda": "USD",
+        "periodo": null
+      },
+      "expensas": null,
+      "caracteristicas": {
+        "ambientes": null,
+        "dormitorios": null,
+        "banios": null,
+        "superficie_total": 75.0,
+        "superficie_cubierta": 75.0
+      },
+      "detalles": {
+        "estado_construccion": "Usado",
+        "ascensor": false,
+        "balcon": false,
+        "cochera": false,
+        "baulera": false,
+        "pileta": false,
+        "mascotas": false
+      },
+      "descripcion": "Propiedad de 75 m2., en lote de 10 X 25 mts. Ubicada en la exclusiva zona de la costa, sobre calle San Francisco Javier al 100, entre calles De los Inmigrantes y Soldado Argentino. A metros del Club Náutico y Pescadores de Ramallo (CNPR) y del acceso al paseo del río y zona de balnearios. La misma cuenta con cómodos espacios, living, cocina comedor, dos dormitorios y baño. Posee patio parquizado. Cuenta con todos los servicios, agua corriente, cloacas, electricidad y pavimento.",
+      "disponibilidad": "Inmediata",
+      "fotos": {
+        "carpeta": "17",
+        "urls": [
+          "https://res.cloudinary.com/dikb9wzup/image/upload/v1766253103/bbr/bbr-casa-017/foto01.jpg",
+          "https://res.cloudinary.com/dikb9wzup/image/upload/v1766253111/bbr/bbr-casa-017/foto02.jpg",
+          "https://res.cloudinary.com/dikb9wzup/image/upload/v1766253136/bbr/bbr-casa-017/foto03.jpg"
+        ]
+      }
+    },
+    {
+      "id": "BBR-CASA-018",
+      "tipo": "Casa",
+      "operacion": "Venta",
+      "estado_construccion": "Usado",
+      "titulo": "Casa Venta - Ramallo",
+      "direccion": {
+        "calle": "Rafael Obligado al 2300",
+        "barrio": "Ramallo",
+        "ciudad": "Ramallo",
+        "cp": ""
+      },
+      "precio": {
+        "valor": 120000.0,
+        "moneda": "USD",
+        "periodo": null
+      },
+      "expensas": null,
+      "caracteristicas": {
+        "ambientes": null,
+        "dormitorios": null,
+        "banios": null,
+        "superficie_total": 108.0,
+        "superficie_cubierta": 108.0
+      },
+      "detalles": {
+        "estado_construccion": "Usado",
+        "ascensor": false,
+        "balcon": false,
+        "cochera": false,
+        "baulera": false,
+        "pileta": false,
+        "mascotas": false
+      },
+      "descripcion": "Propiedad de 108 m2, en lote de 16 X 49,5 mts., ubicada sobre calle Rafael Obligado al 2300. Zona de gran tranquilidad. La misma cuenta con cómodos espacios, living, cocina, tres habitaciones, ante baño y baño completo. Posee galería semi cubierta con parrilla y gran patio parquizado. Cochera. Cuenta con todos los servicios, gas natural, agua corriente, cloacas, electricidad e internet.",
+      "disponibilidad": "Inmediata",
+      "fotos": {
+        "carpeta": "18",
+        "urls": [
+          "https://res.cloudinary.com/dikb9wzup/image/upload/v1766253150/bbr/bbr-casa-018/foto01.jpg",
+          "https://res.cloudinary.com/dikb9wzup/image/upload/v1766253168/bbr/bbr-casa-018/foto02.jpg",
+          "https://res.cloudinary.com/dikb9wzup/image/upload/v1766253178/bbr/bbr-casa-018/foto03.jpg"
+        ]
+      }
+    },
+    {
+      "id": "BBR-CASA-019",
+      "tipo": "Casa",
+      "operacion": "Venta",
+      "estado_construccion": "Usado",
+      "titulo": "Casa Venta - Ramallo",
+      "direccion": {
+        "calle": "Av. B. Mitre al 200",
+        "barrio": "Ramallo",
+        "ciudad": "Ramallo",
+        "cp": ""
+      },
+      "precio": {
+        "valor": 110000.0,
+        "moneda": "USD",
+        "periodo": null
+      },
+      "expensas": null,
+      "caracteristicas": {
+        "ambientes": null,
+        "dormitorios": null,
+        "banios": null,
+        "superficie_total": 100.0,
+        "superficie_cubierta": 100.0
+      },
+      "detalles": {
+        "estado_construccion": "Usado",
+        "ascensor": false,
+        "balcon": false,
+        "cochera": false,
+        "baulera": false,
+        "pileta": false,
+        "mascotas": false
+      },
+      "descripcion": "Propiedad de 100 m2, sobre Av. B. Mitre al 200, una de las principales avenidas de la ciudad, entre Calle De los Inmigrantes y Soldado Argentino, a pocas cuadras del centro de la ciudad. Inmejorable ubicación en la zona de la costa, a metros del acceso al paseo del río, campings y balnearios. En cercanías del Club Náutico y Pescadores de Ramallo (CNPR) y Paseo del puerto. La misma cuenta con cómodos espacios, living, comedor y cocina. Posee dos dormitorios y baño completo. Cochera con pasillo exclusivo de acceso a la casa. Lavadero con baño incluido y deposito/galpón. Patio parquizado con parrilla. Cuenta con todos los servicios.",
+      "disponibilidad": "Inmediata",
+      "fotos": {
+        "carpeta": "19",
+        "urls": [
+          "https://res.cloudinary.com/dikb9wzup/image/upload/v1766253181/bbr/bbr-casa-019/foto01.jpg",
+          "https://res.cloudinary.com/dikb9wzup/image/upload/v1766253183/bbr/bbr-casa-019/foto02.jpg",
+          "https://res.cloudinary.com/dikb9wzup/image/upload/v1766253187/bbr/bbr-casa-019/foto03.jpg"
+        ]
+      }
+    },
+    {
+      "id": "BBR-CASA-020",
+      "tipo": "Casa",
+      "operacion": "Venta",
+      "estado_construccion": "Usado",
+      "titulo": "Casa Venta - Ramallo",
+      "direccion": {
+        "calle": "Buenos Aires al 300",
+        "barrio": "Ramallo",
+        "ciudad": "Ramallo",
+        "cp": ""
+      },
+      "precio": {
+        "valor": 160000.0,
+        "moneda": "USD",
+        "periodo": null
+      },
+      "expensas": null,
+      "caracteristicas": {
+        "ambientes": null,
+        "dormitorios": null,
+        "banios": null,
+        "superficie_total": 100.0,
+        "superficie_cubierta": 100.0
+      },
+      "detalles": {
+        "estado_construccion": "Usado",
+        "ascensor": false,
+        "balcon": false,
+        "cochera": false,
+        "baulera": false,
+        "pileta": false,
+        "mascotas": false
+      },
+      "descripcion": "Excelente de propiedad de 100 m2, en terreno de 15 x 25 mts. sobre calle Buenos Aires al 500, entre Colón y R. Obligado. Excelente ubicación, la misma se encuentra a pocas cuadras de dos colegios primarios, dos colegios secundarios y un jardín de infantes. Además se encuentra en cercanias de la plaza principal José María Bustos, del Club Náutico y Pescadores de Ramallo (CNPR) y Av. San Martín que conecta con el acceso a la zona del paseo del río y balnearios. Dispone de cómodos espacios, living, comedor y cocina. Dos dormitorios de buen tamaño y baño completo. Patio parquizado. Parrilla cubierta, lavadero y garaje abierto. Cuenta con todos los servicios, agua corriente, cloacas, electricidad y pavimento.",
+      "disponibilidad": "Inmediata",
+      "fotos": {
+        "carpeta": "20",
+        "urls": [
+          "https://res.cloudinary.com/dikb9wzup/image/upload/v1766253192/bbr/bbr-casa-020/foto01.jpg",
+          "https://res.cloudinary.com/dikb9wzup/image/upload/v1766253200/bbr/bbr-casa-020/foto02.jpg",
+          "https://res.cloudinary.com/dikb9wzup/image/upload/v1766253201/bbr/bbr-casa-020/foto03.jpg"
+        ]
+      }
+    },
+    {
+      "id": "BBR-CASA-021",
+      "tipo": "Casa",
+      "operacion": "Venta",
+      "estado_construccion": "Usado",
+      "titulo": "Casa Venta - Ramallo",
+      "direccion": {
+        "calle": "Juan B. Justo al 900",
+        "barrio": "Ramallo",
+        "ciudad": "Ramallo",
+        "cp": ""
+      },
+      "precio": {
+        "valor": 140000.0,
+        "moneda": "USD",
+        "periodo": null
+      },
+      "expensas": null,
+      "caracteristicas": {
+        "ambientes": null,
+        "dormitorios": null,
+        "banios": null,
+        "superficie_total": 180.0,
+        "superficie_cubierta": 180.0
+      },
+      "detalles": {
+        "estado_construccion": "Usado",
+        "ascensor": false,
+        "balcon": false,
+        "cochera": false,
+        "baulera": false,
+        "pileta": false,
+        "mascotas": false
+      },
+      "descripcion": "Propiedad de 180 m2, ubicada en calle Juan B Justo al 900 entre Av. Belgrano y Rivadavia. Su ubicación la encuentra cerca de dos colegios primarios, dos colegios secundarios, la plaza principal José María Bustos y el centro comercial de Ramallo. La misma es totalmente nueva y dispone de cómodos espacios, comedor, cocina, tres dormitorios, dos baños completos y patio con pileta. Cuenta con aire acondicionado y calefacción. Posee todos los servicios, agua corriente, gas, cloacas y pavimento.",
+      "disponibilidad": "Inmediata",
+      "fotos": {
+        "carpeta": "21",
+        "urls": [
+          "https://res.cloudinary.com/dikb9wzup/image/upload/v1766253210/bbr/bbr-casa-021/foto01.jpg",
+          "https://res.cloudinary.com/dikb9wzup/image/upload/v1766253229/bbr/bbr-casa-021/foto02.jpg",
+          "https://res.cloudinary.com/dikb9wzup/image/upload/v1766253238/bbr/bbr-casa-021/foto03.jpg"
+        ]
+      }
+    },
+    {
+      "id": "BBR-CASA-022",
+      "tipo": "Casa",
+      "operacion": "Venta",
+      "estado_construccion": "Usado",
+      "titulo": "Casa Venta - Ramallo",
+      "direccion": {
+        "calle": "Salta al 600",
+        "barrio": "Ramallo",
+        "ciudad": "Ramallo",
+        "cp": ""
+      },
+      "precio": {
+        "valor": 150000.0,
+        "moneda": "USD",
+        "periodo": null
+      },
+      "expensas": null,
+      "caracteristicas": {
+        "ambientes": null,
+        "dormitorios": null,
+        "banios": null,
+        "superficie_total": 138.0,
+        "superficie_cubierta": 138.0
+      },
+      "detalles": {
+        "estado_construccion": "Usado",
+        "ascensor": false,
+        "balcon": false,
+        "cochera": false,
+        "baulera": false,
+        "pileta": false,
+        "mascotas": false
+      },
+      "descripcion": "Propiedad de 138 m, en terreno de 10 x 25 mts. sobre calle Salta al 600, entre Colón y Av. San Martín. Excelente ubicación, la misma se encuentra a pocas cuadras de un colegio primario, un colegio secundario y un jardín de infantes. Posee remodelaciones a nueva y dispone de cómodos espacios. Cocina. Living. Comedor. Baño y antebaño.Dos habitaciones. Parrila. Galeria. Patio parquizado. Cuenta con todos los servicios.",
+      "disponibilidad": "Inmediata",
+      "fotos": {
+        "carpeta": "22",
+        "urls": [
+          "https://res.cloudinary.com/dikb9wzup/image/upload/v1766253240/bbr/bbr-casa-022/foto01.jpg",
+          "https://res.cloudinary.com/dikb9wzup/image/upload/v1766253241/bbr/bbr-casa-022/foto02.jpg",
+          "https://res.cloudinary.com/dikb9wzup/image/upload/v1766253242/bbr/bbr-casa-022/foto03.jpg"
+        ]
+      }
+    },
+    {
+      "id": "BBR-CASA-023",
+      "tipo": "Casa",
+      "operacion": "Venta",
+      "estado_construccion": "Usado",
+      "titulo": "Casa Venta - Ramallo",
+      "direccion": {
+        "calle": "Jujuy al 500",
+        "barrio": "Ramallo",
+        "ciudad": "Ramallo",
+        "cp": ""
+      },
+      "precio": {
+        "valor": 150000.0,
+        "moneda": "USD",
+        "periodo": null
+      },
+      "expensas": null,
+      "caracteristicas": {
+        "ambientes": null,
+        "dormitorios": null,
+        "banios": null,
+        "superficie_total": 200.0,
+        "superficie_cubierta": 200.0
+      },
+      "detalles": {
+        "estado_construccion": "Usado",
+        "ascensor": false,
+        "balcon": false,
+        "cochera": false,
+        "baulera": false,
+        "pileta": false,
+        "mascotas": false
+      },
+      "descripcion": "Propiedad de 200 m2, en dos plantas, ubicada en calle Jujuy al 500 entre calles Colón y R. Obligado. Su excelente ubicación la encuentra en cercanías de un colegio primario, un colegio secundario y un jardín de infantes. La misma dispone de cómodos espacios, cocina comedor, tres dormitorios, dos baños completos y patio. Posee quincho con parrilla, cochera para dos vehículos y local comercial al frente. Cuenta con todos los servicios, agua corriente, gas, cloacas y pavimento.",
+      "disponibilidad": "Inmediata",
+      "fotos": {
+        "carpeta": "23",
+        "urls": [
+          "https://res.cloudinary.com/dikb9wzup/image/upload/v1766253243/bbr/bbr-casa-023/foto01.jpg",
+          "https://res.cloudinary.com/dikb9wzup/image/upload/v1766253245/bbr/bbr-casa-023/foto02.jpg",
+          "https://res.cloudinary.com/dikb9wzup/image/upload/v1766253246/bbr/bbr-casa-023/foto03.jpg"
+        ]
+      }
+    },
+    {
+      "id": "BBR-CASA-024",
+      "tipo": "Casa",
+      "operacion": "Venta",
+      "estado_construccion": "Usado",
+      "titulo": "Casa Venta - Ramallo",
+      "direccion": {
+        "calle": "Colon al 1600",
+        "barrio": "Ramallo",
+        "ciudad": "Ramallo",
+        "cp": ""
+      },
+      "precio": {
+        "valor": 100000.0,
+        "moneda": "USD",
+        "periodo": null
+      },
+      "expensas": null,
+      "caracteristicas": {
+        "ambientes": null,
+        "dormitorios": null,
+        "banios": null,
+        "superficie_total": 126.0,
+        "superficie_cubierta": 126.0
+      },
+      "detalles": {
+        "estado_construccion": "Usado",
+        "ascensor": false,
+        "balcon": false,
+        "cochera": false,
+        "baulera": false,
+        "pileta": false,
+        "mascotas": false
+      },
+      "descripcion": "Propiedad de 126 m2, en terreno de 11 x 47 mts. ubicada en calle Colón al 1600 entre calles Salta y La Rioja. Excelente ubicación, la misma se encuentra a pocas cuadras de un colegio primario, dos colegios secundarios y un jardín de infantes. Esta es totalmente nueva y dispone de cómodos espacios, cocina comedor, tres dormitorios, baño completo, lavadero y gran patio parquizado. Posee un espacio para uso como cochera. Cuenta además con local comercial al frente. Posee todos los servicios, agua corriente, gas, cloacas y pavimento.",
+      "disponibilidad": "Inmediata",
+      "fotos": {
+        "carpeta": "24",
+        "urls": [
+          "https://res.cloudinary.com/dikb9wzup/image/upload/v1766253260/bbr/bbr-casa-024/foto01.jpg",
+          "https://res.cloudinary.com/dikb9wzup/image/upload/v1766253268/bbr/bbr-casa-024/foto02.jpg",
+          "https://res.cloudinary.com/dikb9wzup/image/upload/v1766253280/bbr/bbr-casa-024/foto03.jpg"
+        ]
+      }
+    },
+    {
+      "id": "BBR-CASA-025",
+      "tipo": "Casa",
+      "operacion": "Venta",
+      "estado_construccion": "Usado",
+      "titulo": "Casa Venta - Ramallo",
+      "direccion": {
+        "calle": "Cordoba al 100",
+        "barrio": "Ramallo",
+        "ciudad": "Ramallo",
+        "cp": ""
+      },
+      "precio": {
+        "valor": 120000.0,
+        "moneda": "USD",
+        "periodo": null
+      },
+      "expensas": null,
+      "caracteristicas": {
+        "ambientes": null,
+        "dormitorios": null,
+        "banios": null,
+        "superficie_total": 126.0,
+        "superficie_cubierta": 126.0
+      },
+      "detalles": {
+        "estado_construccion": "Usado",
+        "ascensor": false,
+        "balcon": false,
+        "cochera": false,
+        "baulera": false,
+        "pileta": false,
+        "mascotas": false
+      },
+      "descripcion": "Propiedad de 126 m2, en terreno de 10 x 40 mts., sobre calle Córdoba al 100, en zona de la costa de la Ciudad. Su excelente ubicación la encuentra a 100 mts. del paseo De los Olivos y a 200 mts. del Paseo del Puerto y Club Náutico y Pescadores de Ramallo (CNPR). La misma cuenta con living, cocina comedor, dos dormitorios y playroom. Baño completo. Garaje. Gran patio parquizado. Parrilla y deposito. Posee un espacio de 14 m2 para usos múltiples. Cuenta con todos los servicios, agua corriente, cloacas y electricidad.",
+      "disponibilidad": "Inmediata",
+      "fotos": {
+        "carpeta": "25",
+        "urls": [
+          "https://res.cloudinary.com/dikb9wzup/image/upload/v1766253285/bbr/bbr-casa-025/foto01.jpg",
+          "https://res.cloudinary.com/dikb9wzup/image/upload/v1766253288/bbr/bbr-casa-025/foto02.jpg",
+          "https://res.cloudinary.com/dikb9wzup/image/upload/v1766253290/bbr/bbr-casa-025/foto03.jpg"
+        ]
+      }
+    },
+    {
+      "id": "BBR-DEPA-026",
+      "tipo": "Departamento",
+      "operacion": "Venta",
+      "estado_construccion": "Usado",
+      "titulo": "Departamento Venta - Villa Ramallo",
+      "direccion": {
+        "calle": "Av. San Martín y Clark",
+        "barrio": "Villa Ramallo",
+        "ciudad": "Villa Ramallo",
+        "cp": ""
+      },
+      "precio": {
+        "valor": 80000.0,
+        "moneda": "USD",
+        "periodo": null
+      },
+      "expensas": null,
+      "caracteristicas": {
+        "ambientes": null,
+        "dormitorios": null,
+        "banios": null,
+        "superficie_total": 60.0,
+        "superficie_cubierta": 60.0
+      },
+      "detalles": {
+        "estado_construccion": "Usado",
+        "ascensor": false,
+        "balcon": false,
+        "cochera": false,
+        "baulera": false,
+        "pileta": false,
+        "mascotas": false
+      },
+      "descripcion": "Departamento de 60 m², 2 ambientes (1 habitación), en edificio ubicado en zona céntrica y comercial de Villa Ramallo. Cuenta con una habitación con placard, cocina, sala comedor y lavadero. Posee balcón, ascensor y baulera. Cuenta con todos los servicios.",
+      "disponibilidad": "Inmediata",
+      "fotos": {
+        "carpeta": "26",
+        "urls": []
+      }
+    },
+    {
+      "id": "BBR-DEPA-027",
+      "tipo": "Departamento",
+      "operacion": "Alquiler",
+      "estado_construccion": "Usado",
+      "titulo": "Departamento Alquiler - Ramallo",
+      "direccion": {
+        "calle": "J. B. Justo al 1500",
+        "barrio": "Ramallo",
+        "ciudad": "Ramallo",
+        "cp": ""
+      },
+      "precio": {
+        "valor": 250000.0,
+        "moneda": "ARS",
+        "periodo": "mes"
+      },
+      "expensas": null,
+      "caracteristicas": {
+        "ambientes": null,
+        "dormitorios": null,
+        "banios": null,
+        "superficie_total": 30.0,
+        "superficie_cubierta": 30.0
+      },
+      "detalles": {
+        "estado_construccion": "Usado",
+        "ascensor": false,
+        "balcon": false,
+        "cochera": false,
+        "baulera": false,
+        "pileta": false,
+        "mascotas": false
+      },
+      "descripcion": "Propiedad en alquiler. Excelente ubicación. En cercanías de escuelas primaria y secundaria y jardín de infantes. La misma cuenta con cocina comedor, baño completo y dormitorio. Dispone de todos los servicios.",
+      "disponibilidad": "Inmediata",
+      "fotos": {
+        "carpeta": "27",
+        "urls": [
+          "https://res.cloudinary.com/dikb9wzup/image/upload/v1766253300/bbr/bbr-depa-027/foto01.jpg",
+          "https://res.cloudinary.com/dikb9wzup/image/upload/v1766253310/bbr/bbr-depa-027/foto02.jpg",
+          "https://res.cloudinary.com/dikb9wzup/image/upload/v1766253317/bbr/bbr-depa-027/foto03.jpg"
+        ]
+      }
+    },
+    {
+      "id": "BBR-LOTE-028",
+      "tipo": "Terreno",
+      "operacion": "Venta",
+      "estado_construccion": "Usado",
+      "titulo": "Terreno Venta - Ramallo",
+      "direccion": {
+        "calle": "Av. Mitre al 200 esq. Soldado Argentino",
+        "barrio": "Ramallo",
+        "ciudad": "Ramallo",
+        "cp": ""
+      },
+      "precio": {
+        "valor": 110000.0,
+        "moneda": "USD",
+        "periodo": null
+      },
+      "expensas": null,
+      "caracteristicas": {
+        "ambientes": null,
+        "dormitorios": null,
+        "banios": null,
+        "superficie_total": 250.0,
+        "superficie_cubierta": 250.0
+      },
+      "detalles": {
+        "estado_construccion": "Usado",
+        "ascensor": false,
+        "balcon": false,
+        "cochera": false,
+        "baulera": false,
+        "pileta": false,
+        "mascotas": false
+      },
+      "descripcion": "Excelente terreno de 10 x 25 mts. (250 m2), en inmejorable y estratégica zona de la ciudad. Ideal para proyecto de inversión, como locales comerciales, gastronómicos o edificio habitacional entre otros. Ubicado sobre Avenida Mitre al 200, una de las principales avenidas de la localidad y, en esquina con calle Soldado Argentino, en la zona de la costa, a metros del acceso al paseo del río y balnearios. En sus cercanías se encuentra el Club Náutico y Pescadores de Ramallo (CNPR) y el paseo del puerto, con cunas para embarcaciones. Además, existen varios locales gastronómicos y comerciales. No muy lejos de su emplazamiento nos encontramos con la plaza principal José María Bustos, el centro comercial y clubes de la ciudad. Sin dejar de mencionar dos colegios primarios, dos colegios secundarios y un jardín de infantes a pocas cuadras. Este terreno posee, además, la particularidad que cuenta con dos casas construidas y aptas para habitar, tanto para alquilar como uso propio. Ambas disponen de cómodos espacios, living, comedor y cocina. Cómodos dormitorios y baño completo. Patio, lavadero y garaje. Cuentan con todos los servicios, agua corriente, cloacas, electricidad y pavimento.",
+      "disponibilidad": "Inmediata",
+      "fotos": {
+        "carpeta": "28",
+        "urls": []
+      }
+    },
+    {
+      "id": "BBR-LOTE-029",
+      "tipo": "Terreno",
+      "operacion": "Venta",
+      "estado_construccion": "Usado",
+      "titulo": "Terreno Venta - Ramallo",
+      "direccion": {
+        "calle": "Frondozi s/n entre calles España y Av. Mitre  (Barrio Privado Q47)",
+        "barrio": "Ramallo",
+        "ciudad": "Ramallo",
+        "cp": ""
+      },
+      "precio": {
+        "valor": 18000.0,
+        "moneda": "USD",
+        "periodo": null
+      },
+      "expensas": null,
+      "caracteristicas": {
+        "ambientes": null,
+        "dormitorios": null,
+        "banios": null,
+        "superficie_total": 1700.0,
+        "superficie_cubierta": 1700.0
+      },
+      "detalles": {
+        "estado_construccion": "Usado",
+        "ascensor": false,
+        "balcon": false,
+        "cochera": false,
+        "baulera": false,
+        "pileta": false,
+        "mascotas": false
+      },
+      "descripcion": "La amplia disponibilidad de acción sobre el terreno y su estratégica ubicación lo hacen el lugar ideal para invertir.",
+      "disponibilidad": "Inmediata",
+      "fotos": {
+        "carpeta": "29",
+        "urls": []
+      }
+    },
+    {
+      "id": "BBR-LOTE-030",
+      "tipo": "Terreno",
+      "operacion": "Venta",
+      "estado_construccion": "Usado",
+      "titulo": "Terreno Venta - Ramallo",
+      "direccion": {
+        "calle": "Velazquez",
+        "barrio": "Ramallo",
+        "ciudad": "Ramallo",
+        "cp": ""
+      },
+      "precio": {
+        "valor": 20000.0,
+        "moneda": "USD",
+        "periodo": null
+      },
+      "expensas": null,
+      "caracteristicas": {
+        "ambientes": null,
+        "dormitorios": null,
+        "banios": null,
+        "superficie_total": 300.0,
+        "superficie_cubierta": 300.0
+      },
+      "detalles": {
+        "estado_construccion": "Usado",
+        "ascensor": false,
+        "balcon": false,
+        "cochera": false,
+        "baulera": false,
+        "pileta": false,
+        "mascotas": false
+      },
+      "descripcion": "Excelente lote de 10 x 30 mts., ubicado sobre calle Velázquez al 900 a metros de Av. Belgrano y a 200 mts. de ruta camino de la costa y GNC. Barrio con gran tranquilidad y en crecimiento. Cuenta con los servicios de agua corriente, gas y electricidad (no cuenta con cloacas).",
+      "disponibilidad": "Inmediata",
+      "fotos": {
+        "carpeta": "30",
+        "urls": [
+          "https://res.cloudinary.com/dikb9wzup/image/upload/v1766253327/bbr/bbr-lote-030/foto01.jpg",
+          "https://res.cloudinary.com/dikb9wzup/image/upload/v1766253336/bbr/bbr-lote-030/foto02.jpg",
+          "https://res.cloudinary.com/dikb9wzup/image/upload/v1766253346/bbr/bbr-lote-030/foto03.jpg"
+        ]
+      }
+    },
+    {
+      "id": "BBR-LOTE-031",
+      "tipo": "Terreno",
+      "operacion": "Venta",
+      "estado_construccion": "Usado",
+      "titulo": "Terreno Venta - Villa Ramallo",
+      "direccion": {
+        "calle": "20 de Junio al 700",
+        "barrio": "Villa Ramallo",
+        "ciudad": "Villa Ramallo",
+        "cp": ""
+      },
+      "precio": {
+        "valor": 10000.0,
+        "moneda": "USD",
+        "periodo": null
+      },
+      "expensas": null,
+      "caracteristicas": {
+        "ambientes": null,
+        "dormitorios": null,
+        "banios": null,
+        "superficie_total": 350.0,
+        "superficie_cubierta": 350.0
+      },
+      "detalles": {
+        "estado_construccion": "Usado",
+        "ascensor": false,
+        "balcon": false,
+        "cochera": false,
+        "baulera": false,
+        "pileta": false,
+        "mascotas": false
+      },
+      "descripcion": "Excelente lote de 10 x 35 mts, ubicado sobre calle 20 de Junio al 700, barrio Don Antonio, Villa Ramallo. Hermosos y tranquilo barrio. Se encuentra ubicado a 10 minutos de la ciudad cabecera de Ramallo y a 5 min del centro de VIlla Ramallo.",
+      "disponibilidad": "Inmediata",
+      "fotos": {
+        "carpeta": "31",
+        "urls": [
+          "https://res.cloudinary.com/dikb9wzup/image/upload/v1766253355/bbr/bbr-lote-031/foto01.jpg",
+          "https://res.cloudinary.com/dikb9wzup/image/upload/v1766253365/bbr/bbr-lote-031/foto02.jpg",
+          "https://res.cloudinary.com/dikb9wzup/image/upload/v1766253375/bbr/bbr-lote-031/foto03.jpg"
+        ]
+      }
+    },
+    {
+      "id": "BBR-LOTE-032",
+      "tipo": "Terreno",
+      "operacion": "Venta",
+      "estado_construccion": "Usado",
+      "titulo": "Terreno Venta - El Paraiso",
+      "direccion": {
+        "calle": "F. Olmedo y Soto y Calvo",
+        "barrio": "El Paraiso",
+        "ciudad": "Ramallo",
+        "cp": ""
+      },
+      "precio": {
+        "valor": 18000.0,
+        "moneda": "USD",
+        "periodo": null
+      },
+      "expensas": null,
+      "caracteristicas": {
+        "ambientes": null,
+        "dormitorios": null,
+        "banios": null,
+        "superficie_total": 528.0,
+        "superficie_cubierta": 528.0
+      },
+      "detalles": {
+        "estado_construccion": "Usado",
+        "ascensor": false,
+        "balcon": false,
+        "cochera": false,
+        "baulera": false,
+        "pileta": false,
+        "mascotas": false
+      },
+      "descripcion": "Venta de lote de 12,00 x 44,00, en la hermosa localidad de El Paraíso, ubicada a 10 km de la ciudad cabecera de Ramallo y a tan solo 8 km de la ruta provincial n°51 y a 5 km de la ruta nacional n°9. Cuenta con los servicios de agua y luz.",
+      "disponibilidad": "Inmediata",
+      "fotos": {
+        "carpeta": "32",
+        "urls": [
+          "https://res.cloudinary.com/dikb9wzup/image/upload/v1766253382/bbr/bbr-lote-032/foto01.jpg",
+          "https://res.cloudinary.com/dikb9wzup/image/upload/v1766253391/bbr/bbr-lote-032/foto02.jpg",
+          "https://res.cloudinary.com/dikb9wzup/image/upload/v1766253400/bbr/bbr-lote-032/foto03.jpg"
+        ]
+      }
+    },
+    {
+      "id": "BBR-LOTE-033",
+      "tipo": "Terreno",
+      "operacion": "Venta",
+      "estado_construccion": "Usado",
+      "titulo": "Terreno Venta - El Paraiso",
+      "direccion": {
+        "calle": "Soto y Calvo y F. Olmedo",
+        "barrio": "El Paraiso",
+        "ciudad": "Ramallo",
+        "cp": ""
+      },
+      "precio": {
+        "valor": 14000.0,
+        "moneda": "USD",
+        "periodo": null
+      },
+      "expensas": null,
+      "caracteristicas": {
+        "ambientes": null,
+        "dormitorios": null,
+        "banios": null,
+        "superficie_total": 312.0,
+        "superficie_cubierta": 312.0
+      },
+      "detalles": {
+        "estado_construccion": "Usado",
+        "ascensor": false,
+        "balcon": false,
+        "cochera": false,
+        "baulera": false,
+        "pileta": false,
+        "mascotas": false
+      },
+      "descripcion": "Venta de tres estupendos lotes de 12,00 x 26,00 c/u, en la hermosa y pintoresca localidad de El Paraíso, ubicada a 10 km de la ciudad cabecera de Ramallo y a tan solo 8 km de la ruta provincial n°51 y a 5 km de la ruta nacional n°9. Cuenta con los servicios de agua y luz.",
+      "disponibilidad": "Inmediata",
+      "fotos": {
+        "carpeta": "33",
+        "urls": [
+          "https://res.cloudinary.com/dikb9wzup/image/upload/v1766253409/bbr/bbr-lote-033/foto01.jpg",
+          "https://res.cloudinary.com/dikb9wzup/image/upload/v1766253417/bbr/bbr-lote-033/foto02.jpg",
+          "https://res.cloudinary.com/dikb9wzup/image/upload/v1766253429/bbr/bbr-lote-033/foto03.jpg"
+        ]
+      }
+    },
+    {
+      "id": "BBR-LOTE-034",
+      "tipo": "Terreno",
+      "operacion": "Venta",
+      "estado_construccion": "Usado",
+      "titulo": "Terreno Venta - El Paraiso",
+      "direccion": {
+        "calle": "Soto y Calvo y F. Olmedo",
+        "barrio": "El Paraiso",
+        "ciudad": "Ramallo",
+        "cp": ""
+      },
+      "precio": {
+        "valor": 35000.0,
+        "moneda": "USD",
+        "periodo": null
+      },
+      "expensas": null,
+      "caracteristicas": {
+        "ambientes": null,
+        "dormitorios": null,
+        "banios": null,
+        "superficie_total": 1530.0,
+        "superficie_cubierta": 1530.0
+      },
+      "detalles": {
+        "estado_construccion": "Usado",
+        "ascensor": false,
+        "balcon": false,
+        "cochera": false,
+        "baulera": false,
+        "pileta": false,
+        "mascotas": false
+      },
+      "descripcion": "Excelente lote de 17,90 x 26,00 mts., ubicado en esquina, cruce de Calles Felipe Olmedo y Soto y Calvo en la localidad de El Paraíso. Hermosa y pintoresca localidad rural de gran tranquilidad. Este posee una casa con posibilidad seguir construyendo y ampliando. Se encuentra ubicado a 10 km de la ciudad cabecera de Ramallo y a tan solo 8 km de la ruta provincial n°51 y a 5 km, con conexión directa, con la ruta nacional n°9. Cuenta con los servicios de agua y luz.",
+      "disponibilidad": "Inmediata",
+      "fotos": {
+        "carpeta": "34",
+        "urls": []
+      }
+    },
+    {
+      "id": "BBR-CAMPO-035",
+      "tipo": "Casa",
+      "operacion": "Venta",
+      "estado_construccion": "Usado",
+      "titulo": "Casa Venta - Pergamino",
+      "direccion": {
+        "calle": "Zona rural, Pergamino.",
+        "barrio": "Pergamino",
+        "ciudad": "Pergamino",
+        "cp": ""
+      },
+      "precio": {
+        "valor": 532000.0,
+        "moneda": "USD",
+        "periodo": null
+      },
+      "expensas": null,
+      "caracteristicas": {
+        "ambientes": null,
+        "dormitorios": null,
+        "banios": null,
+        "superficie_total": null,
+        "superficie_cubierta": null
+      },
+      "detalles": {
+        "estado_construccion": "Usado",
+        "ascensor": false,
+        "balcon": false,
+        "cochera": false,
+        "baulera": false,
+        "pileta": false,
+        "mascotas": false
+      },
+      "descripcion": "Muy buen campo productivo mixto  en la provincia de Buenos Aires,  ubicado en Camino Real de Muti y Ruta provincial 51, en la zona rural de Pergamino, lo cual lo ubica muy bien estratégicamente. Excelente aptitud con terrenos altos, planos a suavemente ondulados. Los principales cultivos de la zona, manifiestan el excepcional potencial de rendimiento por las características edáficas y climáticas del lugar, además de contar con aptitud ganadera al encontrarse implantado con pasturas.",
+      "disponibilidad": "Inmediata",
+      "fotos": {
+        "carpeta": "35",
+        "urls": []
+      }
+    },
+    {
+      "id": "BBR-CAMPO-036",
+      "tipo": "Casa",
+      "operacion": "Venta",
+      "estado_construccion": "Usado",
+      "titulo": "Casa Venta - Ramallo",
+      "direccion": {
+        "calle": "Zona rural, Ramallo",
+        "barrio": "Ramallo",
+        "ciudad": "Ramallo",
+        "cp": ""
+      },
+      "precio": {
+        "valor": 150000.0,
+        "moneda": "USD",
+        "periodo": null
+      },
+      "expensas": null,
+      "caracteristicas": {
+        "ambientes": null,
+        "dormitorios": null,
+        "banios": null,
+        "superficie_total": null,
+        "superficie_cubierta": null
+      },
+      "detalles": {
+        "estado_construccion": "Usado",
+        "ascensor": false,
+        "balcon": false,
+        "cochera": false,
+        "baulera": false,
+        "pileta": false,
+        "mascotas": false
+      },
+      "descripcion": "El terreno/campo de 7,2 Ha. Se caracteriza de plano a suavemente ondulado con potencial rendimiento por las características edáficas y climáticas del lugar. Apto para actividades agrícolas, pecuarias, apícolas, avícolas y cunícolas, así como para la instalación o emplazamiento de empresas agrícolas, agroindustriales o agroexportadoras. Puede ser utilizado para distintos emprendimientos tales como cultivo de plantas, huertas o viveros.",
+      "disponibilidad": "Inmediata",
+      "fotos": {
+        "carpeta": "36",
+        "urls": []
+      }
+    },
+    {
+      "id": "BBR-CAMPO-037",
+      "tipo": "Casa",
+      "operacion": "Venta",
+      "estado_construccion": "Usado",
+      "titulo": "Casa Venta - Paraiso",
+      "direccion": {
+        "calle": "Zona rural, El Paraiso",
+        "barrio": "Paraiso",
+        "ciudad": "Ramallo",
+        "cp": ""
+      },
+      "precio": {
+        "valor": 82200.0,
+        "moneda": "USD",
+        "periodo": null
+      },
+      "expensas": null,
+      "caracteristicas": {
+        "ambientes": null,
+        "dormitorios": null,
+        "banios": null,
+        "superficie_total": null,
+        "superficie_cubierta": null
+      },
+      "detalles": {
+        "estado_construccion": "Usado",
+        "ascensor": false,
+        "balcon": false,
+        "cochera": false,
+        "baulera": false,
+        "pileta": false,
+        "mascotas": false
+      },
+      "descripcion": "El terreno/campo de aprox. 10 Ha. (9,76 Ha.) se caracteriza de plano a suavemente ondulado con potencial rendimiento por las características edáficas y climáticas del lugar. Apto para actividades agrícolas, pecuarias, apícolas, avícolas y cunícolas, así como para la instalación o emplazamiento de empresas agrícolas, agroindustriales o agroexportadoras. Puede ser utilizado para distintos emprendimientos tales como cultivo de plantas, huertas o viveros. En un plano más vehículo-rural puede ser utilizado para parqueo de máquinas agrícolas, tractores o camiones entre otros vehículos rurales. Con un tinte más urbano puede ser utilizado como espacio de recreación o eventos.",
+      "disponibilidad": "Inmediata",
+      "fotos": {
+        "carpeta": "37",
+        "urls": []
+      }
+    },
+    {
+      "id": "BBR-LOCAL-038",
+      "tipo": "Local Comercial",
+      "operacion": "Alquiler",
+      "estado_construccion": "Usado",
+      "titulo": "Local Comercial Alquiler - Ramallo",
+      "direccion": {
+        "calle": "Salta al 900",
+        "barrio": "Ramallo",
+        "ciudad": "Ramallo",
+        "cp": ""
+      },
+      "precio": {
+        "valor": 500000.0,
+        "moneda": "ARS",
+        "periodo": "mes"
+      },
+      "expensas": null,
+      "caracteristicas": {
+        "ambientes": null,
+        "dormitorios": null,
+        "banios": null,
+        "superficie_total": 200.0,
+        "superficie_cubierta": 200.0
+      },
+      "detalles": {
+        "estado_construccion": "Usado",
+        "ascensor": false,
+        "balcon": false,
+        "cochera": false,
+        "baulera": false,
+        "pileta": false,
+        "mascotas": false
+      },
+      "descripcion": "Exclente y amplio local de 200 m2 en estratégica zona de la ciudad. Cuenta con todos los servicios.",
+      "disponibilidad": "Inmediata",
+      "fotos": {
+        "carpeta": "38",
+        "urls": []
       }
     }
-  ]
+  ],
+  "metadata": {
+    "total": 37,
+    "fecha_generacion": "2025-12-20T14:44:37.970018",
+    "archivo_origen": "..\\BBR Grupo Inmobiliario\\BBR_Propiedades_Estandar_20251220.xlsx",
+    "fecha_actualizacion_fotos": "2025-12-20T14:57:10.823822",
+    "carpeta_cloudinary": "bbr"
+  }
 }
