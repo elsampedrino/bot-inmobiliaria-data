@@ -158,8 +158,9 @@
       "fotos": {
         "carpeta": "fotos_demo/depto-belgrano-004",
         "urls": [
-          "https://unsplash.com/photos/green-house-with-solar-panels-modern-middle-class-neighborhood-dense-population-wide-angle-QAfWwMfXoZ8",
-          "https://unsplash.com/photos/aerial-view-of-two-houses-in-a-neighborhood-SCPouwf5yi0"          
+          "https://res.cloudinary.com/dikb9wzup/image/upload/v1763420190/fotos_demo/casa-villa-urquiza-002/foto01.jpg",
+          "https://res.cloudinary.com/dikb9wzup/image/upload/v1763420190/fotos_demo/casa-villa-urquiza-002/foto02.jpg",
+          "https://res.cloudinary.com/dikb9wzup/image/upload/v1763420191/fotos_demo/casa-villa-urquiza-002/foto03.jpg"        
         ]
       },
       "caracteristicas": {
@@ -197,9 +198,9 @@
       "fotos": {
         "carpeta": "fotos_demo/casa-villa-urquiza-002",
         "urls": [
-          "https://images.unsplash.com/photo-1584738766473-61c083514bf4?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-          "https://images.unsplash.com/photo-1598928506311-c55ded91a20c?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8bGl2aW5nJTIwcm9vbXxlbnwwfHwwfHx8MA%3D%3D",
-          "https://media.istockphoto.com/id/2170930763/photo/patio.jpg?s=1024x1024&w=is&k=20&c=oyIUm0YLzROGW-pA2uOVmzgcoOa_WodSFGx8rfC7P90="        
+          "https://res.cloudinary.com/dikb9wzup/image/upload/v1763420190/fotos_demo/casa-villa-urquiza-002/foto01.jpg",
+          "https://res.cloudinary.com/dikb9wzup/image/upload/v1763420190/fotos_demo/casa-villa-urquiza-002/foto02.jpg",
+          "https://res.cloudinary.com/dikb9wzup/image/upload/v1763420191/fotos_demo/casa-villa-urquiza-002/foto03.jpg"        
         ]
       },
       "caracteristicas": {
@@ -237,9 +238,9 @@
       "fotos": {
         "carpeta": "fotos_demo/casa-villa-urquiza-002",
         "urls": [
-          "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-          "https://images.unsplash.com/photo-1512918728675-ed5a9ecdebfd?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTF8fGFwYXJ0bWVudHxlbnwwfHwwfHx8MA%3D%3D",
-          "https://images.unsplash.com/photo-1630699376167-3870469e7598?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTQyfHxhcGFydG1lbnR8ZW58MHx8MHx8fDA%3D"        
+          "https://res.cloudinary.com/dikb9wzup/image/upload/v1763420193/fotos_demo/depto-belgrano-004/foto01.jpg",
+          "https://res.cloudinary.com/dikb9wzup/image/upload/v1763420194/fotos_demo/depto-belgrano-004/foto02.jpg",
+          "https://res.cloudinary.com/dikb9wzup/image/upload/v1763420195/fotos_demo/depto-belgrano-004/foto03.jpg"
         ]
       },
       "caracteristicas": {
@@ -276,9 +277,9 @@
       "fotos": {
         "carpeta": "fotos_demo/depto-belgrano-004",
         "urls": [
-          "https://plus.unsplash.com/premium_photo-1676321046262-4978a752fb15?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8YXBhcnRtZW50fGVufDB8fDB8fHww",
-          "https://plus.unsplash.com/premium_photo-1683769251695-963095b23d67?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzN8fGFwYXJ0bWVudHxlbnwwfHwwfHx8MA%3D%3D",
-          "https://images.unsplash.com/photo-1689043528099-2ba014dd7c64?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTc0fHxhcGFydG1lbnR8ZW58MHx8MHx8fDA%3D"
+           "https://res.cloudinary.com/dikb9wzup/image/upload/v1763420193/fotos_demo/depto-belgrano-004/foto01.jpg",
+          "https://res.cloudinary.com/dikb9wzup/image/upload/v1763420194/fotos_demo/depto-belgrano-004/foto02.jpg",
+          "https://res.cloudinary.com/dikb9wzup/image/upload/v1763420195/fotos_demo/depto-belgrano-004/foto03.jpg"
         ]
       },
       "caracteristicas": {
