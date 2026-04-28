@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "ultima_actualizacion": "2026-04-17T18:47:31Z",
-    "total": 43,
-    "fuente": "Panel Admin InmoBot — Importaciones"
+    "ultima_actualizacion": "2026-04-28T15:45:38Z",
+    "total": 41,
+    "fuente": "Panel Admin InmoBot"
   },
   "propiedades": [
     {
@@ -50,7 +50,7 @@
       "tipo": "lote",
       "operacion": "venta",
       "titulo": "Terreno en San Pedro",
-      "destacado": false,
+      "destacado": true,
       "activo": true,
       "direccion": {
         "calle": null,
@@ -88,7 +88,7 @@
       "tipo": "lote",
       "operacion": "venta",
       "titulo": "Terreno en San Pedro",
-      "destacado": false,
+      "destacado": true,
       "activo": true,
       "direccion": {
         "calle": "Callejón Vivero 2 pinos San Pedro",
@@ -198,46 +198,6 @@
         "dormitorios": null,
         "banios": null,
         "superficie_total": "930 m²",
-        "superficie_cubierta": null
-      },
-      "detalles": []
-    },
-    {
-      "id": "PROP-006",
-      "tipo": "lote",
-      "operacion": "venta",
-      "titulo": "Terreno en San Pedro",
-      "destacado": false,
-      "activo": true,
-      "direccion": {
-        "calle": null,
-        "barrio": "San Pedro",
-        "ciudad": "San Pedro",
-        "lat": null,
-        "lng": null
-      },
-      "precio": {
-        "valor": 60000.0,
-        "moneda": "USD",
-        "expensas": null
-      },
-      "descripcion": null,
-      "descripcion_corta": "Presentamos una inmejorable oportunidad para adquirir un terreno con todos los servicios instalados en una de las zonas residenciales más demandadas y consolidadas de la ciudad.",
-      "fotos": {
-        "carpeta": "prop-006",
-        "urls": [
-          "https://navinesinmob.com.ar/imagenes/galerias/galeria_691f234a03683.png",
-          "https://navinesinmob.com.ar/imagenes/galerias/galeria_691f234a055b3.jpg",
-          "https://navinesinmob.com.ar/imagenes/galerias/galeria_691f234a09308.jpg"
-        ]
-      },
-      "caracteristicas": {
-        "antiguedad": null,
-        "estado_construccion": "terreno",
-        "ambientes": null,
-        "dormitorios": null,
-        "banios": null,
-        "superficie_total": "300 m²",
         "superficie_cubierta": null
       },
       "detalles": []
@@ -803,7 +763,7 @@
       "tipo": "lote",
       "operacion": "venta",
       "titulo": "Terreno en San Pedro",
-      "destacado": false,
+      "destacado": true,
       "activo": true,
       "direccion": {
         "calle": "Calle 28 y Calle 9 500",
@@ -922,7 +882,7 @@
       "tipo": "casa",
       "operacion": "venta",
       "titulo": "Casa en venta - San Pedro",
-      "destacado": false,
+      "destacado": true,
       "activo": true,
       "direccion": {
         "calle": "Libertad 1362",
@@ -1079,7 +1039,7 @@
       "tipo": "casa",
       "operacion": "venta",
       "titulo": "Casa en venta - San Pedro",
-      "destacado": false,
+      "destacado": true,
       "activo": true,
       "direccion": {
         "calle": "Independencia 1047",
@@ -1276,52 +1236,6 @@
         "Patio",
         "Teléfono",
         "Terraza"
-      ]
-    },
-    {
-      "id": "PROP-031",
-      "tipo": "casa",
-      "operacion": "venta",
-      "titulo": "Casa en venta - San Pedro",
-      "destacado": false,
-      "activo": true,
-      "direccion": {
-        "calle": "Carlos Gardel 260",
-        "barrio": "San Pedro",
-        "ciudad": "San Pedro",
-        "lat": null,
-        "lng": null
-      },
-      "precio": {
-        "valor": 100000.0,
-        "moneda": "USD",
-        "expensas": null
-      },
-      "descripcion": null,
-      "descripcion_corta": "Ofrecemos para la venta esta gran oportunidad, compuesta de local comercial, casa y terreno, ubicados sobre calle Carlos Gardel N 260 de la Ciudad de San Pedro.",
-      "fotos": {
-        "carpeta": "prop-031",
-        "urls": [
-          "https://navinesinmob.com.ar/imagenes/galerias/aa9a116474591376a666d5f8d99d1a03.jpg",
-          "https://navinesinmob.com.ar/imagenes/galerias/26fd0e2d7cd3e4ae591aee8280cab1c0.jpg",
-          "https://navinesinmob.com.ar/imagenes/galerias/a0e57d746eec730b7fcbc0507cdf6097.jpg"
-        ]
-      },
-      "caracteristicas": {
-        "antiguedad": "20 años",
-        "estado_construccion": "usado",
-        "ambientes": null,
-        "dormitorios": 3,
-        "banios": 3,
-        "superficie_total": "910 m²",
-        "superficie_cubierta": null
-      },
-      "detalles": [
-        "Galería",
-        "Lavadero",
-        "Parque",
-        "Patio",
-        "Teléfono"
       ]
     },
     {
@@ -1687,7 +1601,7 @@
       "tipo": "casa",
       "operacion": "venta",
       "titulo": "Casa en venta - San Pedro",
-      "destacado": false,
+      "destacado": true,
       "activo": true,
       "direccion": {
         "calle": "Rivadavia 1290",
