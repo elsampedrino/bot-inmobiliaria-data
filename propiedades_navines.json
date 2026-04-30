@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "ultima_actualizacion": "2026-04-28T15:45:38Z",
+    "ultima_actualizacion": "2026-04-30T14:23:20Z",
     "total": 41,
     "fuente": "Panel Admin InmoBot"
   },
@@ -35,13 +35,13 @@
         ]
       },
       "caracteristicas": {
-        "antiguedad": null,
+        "antiguedad": "",
         "estado_construccion": "terreno",
         "ambientes": null,
         "dormitorios": null,
         "banios": null,
-        "superficie_total": "300 m²",
-        "superficie_cubierta": null
+        "superficie_total": 300,
+        "superficie_cubierta": ""
       },
       "detalles": []
     },
@@ -113,13 +113,13 @@
         ]
       },
       "caracteristicas": {
-        "antiguedad": null,
+        "antiguedad": "",
         "estado_construccion": "terreno",
         "ambientes": null,
         "dormitorios": null,
         "banios": null,
-        "superficie_total": null,
-        "superficie_cubierta": null
+        "superficie_total": "17000  m²",
+        "superficie_cubierta": ""
       },
       "detalles": []
     },
