@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "ultima_actualizacion": "2026-04-14T20:51:44Z",
-    "total": 34,
-    "fuente": "Panel Admin InmoBot — Importaciones"
+    "ultima_actualizacion": "2026-08-30T23:24:16Z",
+    "total": 31,
+    "fuente": "Panel Admin InmoBot"
   },
   "propiedades": [
     {
@@ -35,9 +35,9 @@
         ]
       },
       "caracteristicas": {
-        "antiguedad": null,
+        "antiguedad": "",
         "estado_construccion": "usado",
-        "ambientes": null,
+        "ambientes": 3,
         "dormitorios": 2,
         "banios": 1,
         "superficie_total": "462 m²",
@@ -401,94 +401,6 @@
       ]
     },
     {
-      "id": "PROP-011",
-      "tipo": "casa",
-      "operacion": "venta",
-      "titulo": "Casa Venta - Ramallo",
-      "destacado": false,
-      "activo": true,
-      "direccion": {
-        "calle": "San Francisco Javier 2400",
-        "barrio": "Ramallo",
-        "ciudad": "Ramallo",
-        "lat": -33.4923,
-        "lng": -60.0134
-      },
-      "precio": {
-        "valor": 0,
-        "moneda": "USD",
-        "expensas": null
-      },
-      "descripcion": "Propiedad de 70 m2. (a construir/finalizar), en lote de 13 X 33 mts. Excelente oportunidad para continuar construcción y modelar/finalizar la propiedad a estilo y gusto propio. Ubicada sobre calle San Francisco Javier al 2400. Notable lugar de gran tranquilidad. Se encuentra a 100 metros de Av. San Martín (Ruta provincial 51, ingreso a la ciudad) y a 100 metros de Av. Mitre, dos vías que permiten el acceso rápido a la zona urbana y centro del pueblo, como también, llegada rápida a la traza de calle Guerrico/Oliva, el nuevo y mejorado acceso a la zona del paseo del río y balnearios de la costa. La misma presenta una distribución de cómodos espacios, cocina comedor, dos dormitorios y baño. Posee gran espacio trasero/patio y frente que permite seguir ampliando o construyendo. Cuenta con los servicios de agua corriente, cloacas, electricidad.",
-      "descripcion_corta": "Propiedad a construir/finalizar. Excelente oportunidad para continuar construcción y modelar/finalizar la propiedad a estilo y gusto propio.",
-      "fotos": {
-        "carpeta": "prop-011",
-        "urls": [
-          "https://res.cloudinary.com/dikb9wzup/image/upload/v1766830410/bbr/prop-011/foto01.jpg",
-          "https://res.cloudinary.com/dikb9wzup/image/upload/v1766830412/bbr/prop-011/foto02.jpg",
-          "https://res.cloudinary.com/dikb9wzup/image/upload/v1766830413/bbr/prop-011/foto03.jpg"
-        ]
-      },
-      "caracteristicas": {
-        "antiguedad": null,
-        "estado_construccion": "semi construida",
-        "ambientes": null,
-        "dormitorios": 2,
-        "banios": 1,
-        "superficie_total": "429 m²",
-        "superficie_cubierta": "70 m²"
-      },
-      "detalles": [
-        "patio"
-      ]
-    },
-    {
-      "id": "PROP-012",
-      "tipo": "casa",
-      "operacion": "venta",
-      "titulo": "Casa Venta - Ramallo",
-      "destacado": false,
-      "activo": true,
-      "direccion": {
-        "calle": "Av. Mitre al 1300",
-        "barrio": "Ramallo",
-        "ciudad": "Ramallo",
-        "lat": -33.4889,
-        "lng": -60.007
-      },
-      "precio": {
-        "valor": 0,
-        "moneda": "USD",
-        "expensas": null
-      },
-      "descripcion": "Propiedad de 220 m2, en terreno de 12,00 x 47,70 mts, sobre Av. Mitre al 1300, una de las principales avenidas de la ciudad, entre calle Catamarca y Av. Irigoyen. Inmejorable ubicación en la zona céntrica de Ramallo, a metros del banco prov. de Bs. As., a plaza principal José María Bustos y varios e importantes locales comerciales. En cercanías de una escuela secundaria y el hospital local, José María Gomendio. La misma cuenta con cómodos espacios, cocina comedor, baño completo y dos dormitorios (uno de ellos con altillo). Posee gran galería cubierta con comedor de concepto. Garaje con gran capacidad (hasta 3 vehículos), deposito/galpón, quincho con parrilla, lavadero y baño incluido. Además, hermoso patio parquizado con pileta. Cuenta con todos los servicios.",
-      "descripcion_corta": "Inmejorable ubicación en la zona céntrica de Ramallo, a metros del banco prov. de Bs. As., a plaza principal José María Bustos y varios e importantes locales comerciales.",
-      "fotos": {
-        "carpeta": "prop-012",
-        "urls": [
-          "https://res.cloudinary.com/dikb9wzup/image/upload/v1766830414/bbr/prop-012/foto01.jpg",
-          "https://res.cloudinary.com/dikb9wzup/image/upload/v1766830414/bbr/prop-012/foto02.jpg",
-          "https://res.cloudinary.com/dikb9wzup/image/upload/v1766830416/bbr/prop-012/foto03.jpg"
-        ]
-      },
-      "caracteristicas": {
-        "antiguedad": null,
-        "estado_construccion": "usado",
-        "ambientes": null,
-        "dormitorios": 2,
-        "banios": 1,
-        "superficie_total": "570 m²",
-        "superficie_cubierta": "220 m²"
-      },
-      "detalles": [
-        "cochera",
-        "patio",
-        "pileta",
-        "quincho",
-        "parrilla"
-      ]
-    },
-    {
       "id": "PROP-013",
       "tipo": "casa",
       "operacion": "venta",
@@ -787,49 +699,6 @@
       },
       "detalles": [
         "cochera",
-        "patio",
-        "parrilla"
-      ]
-    },
-    {
-      "id": "PROP-020",
-      "tipo": "casa",
-      "operacion": "venta",
-      "titulo": "Casa Venta - Ramallo",
-      "destacado": false,
-      "activo": true,
-      "direccion": {
-        "calle": "Buenos Aires al 300",
-        "barrio": "Ramallo",
-        "ciudad": "Ramallo",
-        "lat": -33.4786,
-        "lng": -60.0068
-      },
-      "precio": {
-        "valor": 0,
-        "moneda": "USD",
-        "expensas": null
-      },
-      "descripcion": "Excelente de propiedad de 100 m2, en terreno de 15 x 25 mts. sobre calle Buenos Aires al 500, entre Colón y R. Obligado. Excelente ubicación, la misma se encuentra a pocas cuadras de dos colegios primarios, dos colegios secundarios y un jardín de infantes. Además se encuentra en cercanias de la plaza principal José María Bustos, del Club Náutico y Pescadores de Ramallo (CNPR) y Av. San Martín que conecta con el acceso a la zona del paseo del río y balnearios. Dispone de cómodos espacios, living, comedor y cocina. Dos dormitorios de buen tamaño y baño completo. Patio parquizado. Parrilla cubierta, lavadero y garaje abierto. Cuenta con todos los servicios, agua corriente, cloacas, electricidad y pavimento.",
-      "descripcion_corta": "Excelente ubicación. Cuenta con todos los servicios, agua corriente, cloacas, electricidad y pavimento.",
-      "fotos": {
-        "carpeta": "prop-020",
-        "urls": [
-          "https://res.cloudinary.com/dikb9wzup/image/upload/v1766830460/bbr/prop-020/foto01.jpg",
-          "https://res.cloudinary.com/dikb9wzup/image/upload/v1766830461/bbr/prop-020/foto02.jpg",
-          "https://res.cloudinary.com/dikb9wzup/image/upload/v1766830462/bbr/prop-020/foto03.jpg"
-        ]
-      },
-      "caracteristicas": {
-        "antiguedad": null,
-        "estado_construccion": "usado",
-        "ambientes": null,
-        "dormitorios": 2,
-        "banios": 1,
-        "superficie_total": "375 m²",
-        "superficie_cubierta": "100 m²"
-      },
-      "detalles": [
         "patio",
         "parrilla"
       ]
@@ -1451,7 +1320,7 @@
         ]
       },
       "caracteristicas": {
-        "antiguedad": "",
+        "antiguedad": null,
         "estado_construccion": "usado",
         "ambientes": 5,
         "dormitorios": 3,
